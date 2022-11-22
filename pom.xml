@@ -9,20 +9,6 @@
   <url>http://maven.apache.org</url>
   
   
-   <distributionManagement>  
-	<repository>
-		<id>nexus</id>
-		<name>Ashok IT Releases Nexus Repo</name>
-		<url>http://34.235.136.175:8081/repository/AshokIt-release/</url>
-	</repository>
-	
-	<snapshotRepository>
-		<id>nexus</id>
-		<name>Ashok IT Snapshots Nexus Repo</name>
-		<url>http://34.235.136.175:8081/repository/AshokIt-snapshot/</url>
-	</snapshotRepository>	
-</distributionManagement>
-  
   
   <dependencies>
   
